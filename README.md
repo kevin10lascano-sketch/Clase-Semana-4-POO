@@ -26,6 +26,7 @@ Mediante este proyecto el estudiante podrá:
 
 ## 🏗️ Estructura del Proyecto
 
+```text
 biblioteca_app/
 │
 ├── modelos/
@@ -36,6 +37,7 @@ biblioteca_app/
 │   └── biblioteca.py
 │
 └── main.py
+```
 
 ### Descripción de Carpetas
 
